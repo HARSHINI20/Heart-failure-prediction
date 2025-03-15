@@ -36,10 +36,10 @@ The dataset used in this project is the [Heart Failure Prediction Dataset](https
    - Evaluated the model using accuracy, precision, recall, and ROC-AUC score.
 
 ## Results
-- **Accuracy**: 85%
-- **Precision**: 84%
-- **Recall**: 82%
-- **ROC-AUC Score**: 0.89
+- **Accuracy**: 83.33%
+- **Precision**: 0.82
+- **Recall**: 0.75
+
 
 ## Requirements
 To run this project, you need the following Python libraries:
